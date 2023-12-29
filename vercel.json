@@ -8,11 +8,5 @@
                 "Access-Control-Allow-Origin": "*"
             }
         }
-    ],
-    "builds": [
-        {
-            "src": "src/main.tsx",
-            "use": "@vercel/node"
-        }
     ]
 }
