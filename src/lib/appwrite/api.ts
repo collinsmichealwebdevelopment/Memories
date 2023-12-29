@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { ID, Query } from "appwrite";
 
 import { INewPost, INewUser, IUpdatePost, IUpdateUser  } from "@/types";

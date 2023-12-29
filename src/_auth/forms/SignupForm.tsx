@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as z from "zod"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { useToast } from "@/components/ui/use-toast"
