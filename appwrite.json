@@ -1,7 +1,0 @@
-{
-    "CORS": {
-        "Enabled": true,
-        "Origins": ["http://localhost:5173",
-        "https://memories-one-omega.vercel.app"]
-    }
-}
